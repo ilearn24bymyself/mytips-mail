@@ -1,0 +1,4 @@
+config.local.json
+pause.flag
+__pycache__/
+*.pyc
